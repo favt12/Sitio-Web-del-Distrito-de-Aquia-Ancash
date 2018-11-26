@@ -11,8 +11,8 @@
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet"> 
-  <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/fontello.css">
@@ -65,8 +65,8 @@
     <li><img src="img/iglesiaoscuro.jpg"></li>
   </ul>
   <nav class="slides-navigation">
-    <a href="#" class="next"><i class="icon-right-open"></i></a>
-    <a href="#" class="prev"><i class="icon-left-open"></i></a>
+    <a href="#" class="next"><span class="icon-right-open"></span></a>
+    <a href="#" class="prev"><span class="icon-left-open"></span></a>
   </nav>
 </div><!-- #slides -->
 </header>

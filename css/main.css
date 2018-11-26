@@ -106,7 +106,22 @@ textarea {
    ========================================================================== */
 
 
+   h1 {
+       color: #333;
+       font-family: 'Dosis', sans-serif;
+       font-size: 35px;
+       letter-spacing: 6px;
+       text-shadow: 1px 1px 0 rgba( 189, 195, 199 ,0.2);
+   }
 
+   p {
+       font-family: 'Opens Sans', sans-serif;
+       color: rgb(63, 56, 68);
+       letter-spacing: 0.55px;
+       font-size: 1em;
+       text-shadow: 1px 1px 0 rgba( 0, 0, 0 ,0.2);
+       font-weight: 100;
+   }
 
 
 
