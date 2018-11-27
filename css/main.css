@@ -4,7 +4,7 @@
 @import url(barra.css);
 @import url(superslides.css);
 @import url(container_one.css);
-@import url(discover.css);
+@import url(descubre.css);
 
 
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
@@ -114,14 +114,31 @@ textarea {
        text-shadow: 1px 1px 0 rgba( 189, 195, 199 ,0.2);
    }
 
+   h2{
+       font-family: 'Open Sans Condensed', sans-serif;
+       font-size: 60px;
+       font-weight: 900;
+       letter-spacing: 6px;
+       text-shadow: 1px 1px 0 rgba( 189, 195, 199 ,0.2);
+   }
+
+   h3{
+    color: #333;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    letter-spacing: 6px;
+    text-shadow: 1px 1px 0 rgba( 189, 195, 199 ,0.2);
+   }
+
    p {
-       font-family: 'Opens Sans', sans-serif;
-       color: rgb(63, 56, 68);
+       font-family: 'Open Sans Condensed', sans-serif;
+       color: #5f5f5f;
        letter-spacing: 0.55px;
-       font-size: 1em;
-       text-shadow: 1px 1px 0 rgba( 0, 0, 0 ,0.2);
+       font-size: 19px;
+       text-shadow: 1px 1px 0 rgba( 0, 0, 0 ,0.1);
        font-weight: 100;
    }
+
 
 
 

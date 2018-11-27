@@ -8,9 +8,8 @@
 
             </div>
             <div class="contenedor-one col-12 col-md-6 col-lg-5 d-flex text-justify flex-wrap">
-                <div>
-                    <p>AQUIA te invita a disfrutar de sus lugares mas atractivos y costumbres de esta hermosa tierra "EL PARAISO ESCONDIDO".
-                    <p>En la gastronomia nos ofrece una variedad de platos que son una exquisitez para el gusto humano, Aquia es un lugar hospitalario donde te sentiras en casa, si quieres saber màs sigueme en este recorrido.</p>
+                <div class="px-3">
+                    <p>AQUIA te invita a disfrutar de sus lugares mas atractivos y recónditos  de esta hermosa tierra "EL PARAISO ESCONDIDO", un lugar hospitalario que te sentiras como en casa donde disfrutaras de las mejores fiestas costumbristas y sobre todo ese ambiente natural que nos encanta, si quieres saber más sigueme en este recorrido.
                 </div>
 
                 <div class="w-100 d-flex align-items-end">

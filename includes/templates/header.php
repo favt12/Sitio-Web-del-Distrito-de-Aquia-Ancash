@@ -58,11 +58,11 @@
 <!-- Slides -->
 <div id="slides">
   <ul class="slides-container">
-    <li><img src="img/aquiariooscuro.png"></li>
+    <li><img src="img/aquia_panor.png"></li>
     <li><img src="img/cayac1.jpg"></li>
-    <li><img src="img/AQUIAimg1.jpg"></li>
-    <li><img src="img/aquiaoscuro.jpg"></li>
-    <li><img src="img/iglesiaoscuro.jpg"></li>
+    <li><img src="img/aquiario.png"></li>
+    <li><img src="img/aquia_foto_sanmiquel1.jpg"></li>
+    <li><img src="img/a.jpg"></li>
   </ul>
   <nav class="slides-navigation">
     <a href="#" class="next"><span class="icon-right-open"></span></a>
