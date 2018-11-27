@@ -19,7 +19,7 @@
             </div>
             <div class="col-12 col-md-6 col-lg-7 d-flex align-items-center">
                 <div class="embed-responsive embed-responsive-16by9 mt-2">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WdH3HDeTpLI" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bddZ0wEg98E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div><!-- .row .mb-3 -->
