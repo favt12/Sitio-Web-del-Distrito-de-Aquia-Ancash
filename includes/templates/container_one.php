@@ -13,7 +13,7 @@
                 </div>
 
                 <div class="w-100 d-flex align-items-end">
-                    <button type="button" class="btn btn-info btn-block">Historia de AQUIA
+                    <button type="button" class="btn btn-outline-info btn-block">Historia de AQUIA
                     </button>
                 </div>
             </div>
