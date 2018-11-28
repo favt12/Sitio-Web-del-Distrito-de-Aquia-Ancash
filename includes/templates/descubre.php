@@ -1,7 +1,7 @@
 <section>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="title-contenedor col-12 text-center">
+			<div class="title-contenedor col-12 text-center" id="discover">
 				<h2>DESCUBRE</h2>
 			</div>
 		</div>
@@ -10,8 +10,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="discover">
-				<h3 class="my-4">DESCUBRE AQUIA</h3>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt!</p>
+				<h3 class="my-4 px-2">DESCUBRE AQUIA</h3>
+				<p class="text-justify mx-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt!</p>
 			</div>
 		</div>
 
