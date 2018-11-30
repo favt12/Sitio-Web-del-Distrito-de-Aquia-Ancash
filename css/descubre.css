@@ -4,3 +4,20 @@ section div.title-contenedor {
     margin: 50px 0;
     padding: 50px 0;
 }
+
+nav.nav-discover {
+  background: rgb( 212, 230, 241 );
+}
+
+nav.nav-discover a {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 13px;
+
+}
+
+nav.nav-discover a:hover{
+  border: 0;
+}
