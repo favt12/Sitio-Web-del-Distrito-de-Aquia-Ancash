@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/fontello.css">
   <link rel="stylesheet" href="css/main.css">
-
 </head>
 
 <body>
