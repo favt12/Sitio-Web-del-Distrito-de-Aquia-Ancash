@@ -28,15 +28,10 @@
 						<div class="card-body">
 							<div class="tab-content" id="nav-tabContent">
 								<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-
 									<?php require_once 'includes/templates/costumbres-danzas.php' ?>
-
-
 								</div>
 								<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
 									<?php require_once 'includes/templates/lugares-turisticos.php' ?>
-
-
 								</div>
 							</div>
 						</div><!-- .card-body -->
@@ -49,5 +44,4 @@
 
 	</div><!-- .container -->
 
->>>>>>> rama-discover-mod
 </section>
