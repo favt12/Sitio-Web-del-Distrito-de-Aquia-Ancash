@@ -5,6 +5,7 @@
 @import url(superslides.css);
 @import url(container_one.css);
 @import url(descubre.css);
+@import url(costumbres-danzas.css);
 
 
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
@@ -138,6 +139,12 @@ textarea {
        text-shadow: 1px 1px 0 rgba( 0, 0, 0 ,0.1);
        font-weight: 100;
    }
+
+   hr {
+     margin-top: 120px;
+     margin-bottom: 120px;
+   }
+
 
 
 

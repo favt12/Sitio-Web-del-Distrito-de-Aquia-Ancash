@@ -15,7 +15,7 @@
 			</div>
 		</div>
 
-		<div class="row">
+		<div class="discover-content row">
 			<div class="col">
 				<div class="card">
 							<nav class="nav-discover">
@@ -25,7 +25,7 @@
 								</div>
 							</nav>
 
-						<div class="card-body">
+						<div class="cards card-body">
 							<div class="tab-content" id="nav-tabContent">
 								<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 									<?php require_once 'includes/templates/costumbres-danzas.php' ?>
@@ -34,13 +34,11 @@
 									<?php require_once 'includes/templates/lugares-turisticos.php' ?>
 								</div>
 							</div>
-						</div><!-- .card-body -->
+						</div><!-- .cards .card-body -->
 					</div><!-- .card -->
 				</div>
 
 			</div>
-
-
 
 	</div><!-- .container -->
 
