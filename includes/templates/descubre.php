@@ -15,36 +15,6 @@
 			</div>
 		</div>
 
-		<div class="discover-cards row mt-4">
-			<div class="one-card col-12 col-md-4 d-flex justify-content-center">
-				<div class="card" style="width: 18rem;">
-					<img class="card-img-top" src="img/templo.jpg" alt="">
-					<div class="card-body">
-						<button class="btn btn-block" type="button" name="button">Costumbres y Danzas</button>
-					</div>
-				</div>
-			</div>
-
-			<div class="one-card col-12 col-md-4 d-flex justify-content-center">
-				<div class="card" style="width: 18rem;">
-					<img class="card-img-top" src="img/templo.jpg" alt="">
-					<div class="card-body">
-						<button class="btn btn-block" type="button" name="button">Historia de AQUIA</button>
-					</div>
-				</div>
-			</div>
-			<div class="one-card col-12 col-md-4 d-flex justify-content-center">
-				<div class="card" style="width: 18rem;">
-					<img class="card-img-top" src="img/templo.jpg" alt="">
-					<div class="card-body">
-						<button class="btn btn-block" type="button" name="button">Lugares Turisticos</button>
-					</div>
-				</div>
-			</div>
-		</div>
-
-<<<<<<< HEAD
-=======
 		<div class="row">
 			<div class="col">
 				<div class="card">
