@@ -38,12 +38,12 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Eventos
+          Datos
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-        <a class="dropdown-item" href="#">Señor de Cayac</a>
-          <a class="dropdown-item" href="#">27 de Septiembre</a>
-          <a class="dropdown-item" href="#">Fiesta de año Nuevo</a>
+        <a class="dropdown-item" href="#">Clima</a>
+          <a class="dropdown-item" href="#">Dias Festivos</a>
+          <a class="dropdown-item" href="#">Movilizarse</a>
         </div>
       </li>
       <li class="nav-item">
