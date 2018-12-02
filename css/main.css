@@ -6,6 +6,7 @@
 @import url(container_one.css);
 @import url(descubre.css);
 @import url(costumbres-danzas.css);
+@import url(datos.css);
 
 
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
@@ -133,9 +134,9 @@ textarea {
 
    p {
        font-family: 'Open Sans Condensed', sans-serif;
-       color: #5f5f5f;
+       color: rgb(88, 96, 105);
        letter-spacing: 0.55px;
-       font-size: 19px;
+       font-size: 20px;
        text-shadow: 1px 1px 0 rgba( 0, 0, 0 ,0.1);
        font-weight: 100;
    }
@@ -145,6 +146,12 @@ textarea {
      margin-bottom: 120px;
    }
 
+   .title-contenedor {
+       background: rgb(0, 80, 115);
+       color: #fff;
+       margin: 50px 0;
+       padding: 50px 0;
+   }
 
 
 
