@@ -1,0 +1,19 @@
+div.title-contenedor-date {
+  background: rgb(93, 173, 226);
+}
+div.data-content-btn a {
+  background: rgba( 255, 255, 255 , 0.4 );
+  border: 0px solid rgba( 255, 255, 255 , 0.4 );
+  -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,2);
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.3);
+}
+
+div.data-content-btn a i {
+  font-size: 40px;
+  color: rgb(204, 209, 209);
+}
+@media only screen and (max-width:525px){
+div.data-content-btn a i {
+  font-size: 15px;
+}
+}
