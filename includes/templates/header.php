@@ -36,15 +36,8 @@
       <li class="nav-item">
         <a class="nav-link" href="#discover">Descubre</a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Datos
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-        <a class="dropdown-item" href="#">Clima</a>
-          <a class="dropdown-item" href="#">Dias Festivos</a>
-          <a class="dropdown-item" href="#">Movilizarse</a>
-        </div>
+      <li class="nav-item">
+        <a class="nav-link" href="#datos">Datos Utiles</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Ubicacion</a>
