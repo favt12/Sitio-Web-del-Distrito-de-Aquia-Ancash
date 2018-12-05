@@ -15,8 +15,9 @@
   <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/fontello.css">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/fontello.css">
+  <link rel="stylesheet" href="css/fullcalendar.min.css">
 </head>
 
 <body>
