@@ -10,9 +10,9 @@
   <script src="js/bootstrap.min.js"></script>
   <script src="js/main.js"></script>
   <script src="js/jquery.superslides.js"></script>
-
-
-
+  <script src="js/moment.min.js"></script>
+  <script src="js/fullcalendar.min.js"></script>
+  <script src="js/calendar.js"></script>
 
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
