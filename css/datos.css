@@ -1,6 +1,11 @@
 div.title-contenedor-date {
   background: rgb(97, 191, 102);
 }
+
+div.data-content {
+  margin-top: 20px;
+}
+
 div.data-content-btn a {
   background: rgba( 255, 255, 255 , 0.4 );
   border: 0px solid rgba( 255, 255, 255 , 0.4 );
@@ -10,7 +15,7 @@ div.data-content-btn a {
 
 div.data-content-btn a img {
   width: auto;
-  height: 50px;
+  height: 40px;
 
 }
 @media only screen and (max-width:525px){
