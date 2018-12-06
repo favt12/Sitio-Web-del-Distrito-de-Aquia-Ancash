@@ -1,50 +1,43 @@
-div.barra{
-  background-color: rgba(0,0,0,0.0);
-  z-index: 999;
-  position: absolute;
-  width: 100%;
+h1 {
+  color: #333;
+  font-family: "Dosis", sans-serif;
+  font-size: 35px;
+  letter-spacing: 6px;
+  text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2); }
 
-}
+h2 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  letter-spacing: 6px;
+  text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2); }
 
+@media only screen and (max-width: 525px) {
+  h2 {
+    font-size: 30px; } }
+h3 {
+  color: #333;
+  font-family: "Dosis", sans-serif;
+  font-size: 24px;
+  letter-spacing: 6px;
+  text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2); }
 
-nav .btn-bar{
-background: rgba(255, 255, 255, 0.7);
-color: #fff;
-}
+p {
+  font-family: "Open Sans Condensed", sans-serif;
+  color: #586069;
+  letter-spacing: 0.55px;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+  font-weight: 100; }
 
-@media only screen and (max-width:991px){
-div.menu-letter {background: rgba( 52, 152, 219, 0.9 );}
-}
+hr {
+  margin-top: 120px;
+  margin-bottom: 120px; }
 
-div.menu-letter li{
-  margin-left: 30px;
-}
+.title-contenedor {
+  background: #005073;
+  color: #fff;
+  margin: 50px 0;
+  padding: 50px 0; }
 
-div.menu-letter a{
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #cccccc!important;
-  font-size: 14px;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  transition: all .6s ease;
-  text-shadow: 1px 1px 0 rgba(0,0,0,0.3);
-
-}
-
-div.menu-letter a:hover{
-  color: #fff!important;
-
-}
-
-div.menu-letter li .link-start {
-  color: #fff!important;
-}
-
-.dropdown-menu{
-  background: rgba( 52, 152, 219, 0.8 );
-  border-radius: 0;
-}
-.dropdown-menu a:hover{
-  background: rgba( 52, 152, 219, 0.2 );
-}
+/*# sourceMappingURL=barra.css.map */
