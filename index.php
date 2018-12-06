@@ -13,6 +13,7 @@
   <script src="js/moment.min.js"></script>
   <script src="js/fullcalendar.min.js"></script>
   <script src="js/calendar.js"></script>
+  <script src='js/locale/es.js'></script>
 
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
