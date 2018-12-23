@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   $('#botonone').on('click', function(){
       $.ajax({

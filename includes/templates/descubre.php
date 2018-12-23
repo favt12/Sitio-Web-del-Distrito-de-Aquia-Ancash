@@ -1,7 +1,7 @@
-<section>
+<section id="discover">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="title-contenedor col-12 text-center" id="discover">
+			<div class="title-contenedor col-12 text-center">
 				<h2>DESCUBRE</h2>
 			</div>
 		</div>
@@ -38,8 +38,7 @@
 					</div><!-- .card -->
 				</div>
 
-			</div>
-
+			</div><!-- .discover-content .row -->
 	</div><!-- .container -->
 
 </section>

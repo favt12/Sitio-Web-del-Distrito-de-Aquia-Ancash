@@ -1,7 +1,7 @@
-<section>
+<section class="datos" id="datos">
   <div class="container-fluid">
     <div class="row">
-      <div id="datos" class="title-contenedor title-contenedor-date col-12 text-center">
+      <div class="title-contenedor title-contenedor-date col-12 text-center">
         <h2>DATOS UTILES</h2>
       </div>
     </div>

@@ -18,35 +18,35 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/fontello.css">
   <link rel="stylesheet" href="css/fullcalendar.min.css">
+  <!--<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" />-->
 </head>
 
 <body>
 
-<header>
-<div class="barra">
-<nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="#"><img src="img/logo.png" width="180px" height="50px" alt=""></a>
+<header id="inicio">
+<nav class="barra navbar navbar-expand-lg navbar-light fixed-top">
+  <img src="img/logo.png" width="180px" height="50px" alt="">
   <button class="btn-bar navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="menu-letter collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="link-start nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+        <a data-scroll class="nav-link" href="#inicio" aria-pressed="true">Inicio <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#discover">Descubre</a>
+        <a data-scroll class="nav-link" href="#discover" aria-pressed="true">Descubre</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#datos">Datos Utiles</a>
+        <a data-scroll class="nav-link" href="#datos" aria-pressed="true">Datos Utiles</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Ubicacion</a>
+        <a data-scroll class="nav-link" href="#ubicacion" aria-pressed="true">Ubicacion</a>
       </li>
     </ul>
   </div>
 </nav>
-</div>
+
 
 <!-- Slides -->
 <div id="slides">
