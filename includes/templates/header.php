@@ -53,8 +53,19 @@
 <!-- Slides -->
 <div id="slides">
   <ul class="slides-container">
-    <li><img src="img/aquia_panorama.png"></li>
-    <li><img src="img/cayac1.jpg"></li>
+    <li>
+      <img src="img/aquia_panorama.png">
+      <div class="carousel-caption">
+        <h2>AQUIA - PARAISO ESCONDIDO</h2>
+        <h4>Ancash,Bolognesi,Aquia</h4>
+      </div>
+    </li>
+    <li>
+      <img src="img/señor_cayac.jpg">
+      <div class="carousel-caption">
+        <h2>SEÑOR DE CAYAC</h2>
+      </div>
+    </li>
     <li><img src="img/aquiariooscuro.png"></li>
     <li><img src="img/aquia_foto_sanmiquel.jpg"></li>
     <li><img src="img/iglesiapanorama.jpg"></li>
