@@ -11,11 +11,11 @@
       <div class="data-content-right col-12 col-md-1 ">
         <div class="data-content btn-group mb-5 col-12 justify-content-center" role="group" aria-label="First group">
           <div class="data-content-btn  nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
-            <a class="btn btn-secondary mb-2 mx-2 nav-item nav-link active rounded" id="nav-calendar-tab" data-toggle="tab" href="#nav-calendar" role="tab" aria-controls="nav-calendar" aria-selected="true"><img src="img/button_logo_calendar.png" alt=""></a>
-            <a class="btn btn-dark my-2 mx-2 nav-item nav-link rounded" id="nav-movil-tab" data-toggle="tab" href="#nav-movil" role="tab" aria-controls="nav-movil" aria-selected="false"><img src="img/button_logo_autobus.png" alt=""></a>
-            <a class="btn btn-warning my-2 mx-2 nav-item nav-link rounded" id="nav-ambulance-tab" data-toggle="tab" href="#nav-ambulance" role="tab" aria-controls="nav-ambulance" aria-selected="false"><img src="img/button_logo_cruzroja.png" alt=""></a>
-            <a class="btn btn-success my-2 mx-2 nav-item nav-link rounded" id="nav-dollar-tab" data-toggle="tab" href="#nav-dollar" role="tab" aria-controls="nav-dollar" aria-selected="false"><img src="img/button_logo_moneda.png" alt=""></a>
-            <a class="btn btn-light my-2 mx-2 nav-item nav-link rounded" id="nav-clima-tab" data-toggle="tab" href="#nav-clima" role="tab" aria-controls="nav-clima" aria-selected="false"><img src="img/button_logo_clima.png" alt=""></a>
+            <a class="btn btn-secondary mb-2 mx-2 nav-item nav-link active rounded" id="nav-calendar-tab" data-toggle="tab" href="#nav-calendar" role="tab" aria-controls="nav-calendar" aria-selected="true"><img src="img/calendar.png" alt=""></a>
+            <a class="btn btn-dark my-2 mx-2 nav-item nav-link rounded" id="nav-movil-tab" data-toggle="tab" href="#nav-movil" role="tab" aria-controls="nav-movil" aria-selected="false"><img src="img/autobus.png" alt=""></a>
+            <a class="btn btn-warning my-2 mx-2 nav-item nav-link rounded" id="nav-ambulance-tab" data-toggle="tab" href="#nav-ambulance" role="tab" aria-controls="nav-ambulance" aria-selected="false"><img src="img/cruzroja.png" alt=""></a>
+            <a class="btn btn-success my-2 mx-2 nav-item nav-link rounded" id="nav-dollar-tab" data-toggle="tab" href="#nav-dollar" role="tab" aria-controls="nav-dollar" aria-selected="false"><img src="img/moneda.png" alt=""></a>
+            <a class="btn btn-light my-2 mx-2 nav-item nav-link rounded" id="nav-clima-tab" data-toggle="tab" href="#nav-clima" role="tab" aria-controls="nav-clima" aria-selected="false"><img src="img/clima.png" alt=""></a>
           </div><!-- .data-content-right .col-3 .col-md-2 .d-flex .justify-content-start -->
       </div>
     </div>
