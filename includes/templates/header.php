@@ -57,13 +57,14 @@
       <img src="img/aquia_panorama.png">
       <div class="carousel-caption">
         <h2>AQUIA - PARAISO ESCONDIDO</h2>
-        <h4>Ancash,Bolognesi,Aquia</h4>
+        <h4>Ancash, Bolognesi, Aquia</h4>
       </div>
     </li>
     <li>
       <img src="img/señor_cayac.jpg">
       <div class="carousel-caption">
-        <h2>SEÑOR DE CAYAC</h2>
+        <h2>SANTUARIO DEL SEÑOR DE CAYAC</h2>
+        <h4>3 DE MAYO</h4>
       </div>
     </li>
     <li><img src="img/aquiariooscuro.png"></li>
