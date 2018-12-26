@@ -4,8 +4,7 @@
             <div class="col-12">
                 <div class="title-h1 text-center">
                     <h1>AQUIA TE ESPERA</h1>
-                </div>
-
+                </div><!-- .title-h1 .text-center -->
             </div>
             <div class="contenedor-one col-12 col-md-6 col-lg-5 d-flex text-justify flex-wrap">
                 <div class="px-3">
@@ -23,6 +22,15 @@
                 </div>
             </div>
         </div><!-- .row .mb-3 -->
+        <hr>
+        <div class="row">
+          <div class="col-12">
+            <div class="title-h1 text-center mt-0">
+                <h1>CASERIOS</h1>
+            </div><!-- .title-h1 .text-center .mt-0 -->
+          </div><!-- .col-12 -->
+
+        </div><!-- .row -->
     </div><!-- .container .mt-5 -->
 
 </main>
