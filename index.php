@@ -12,6 +12,7 @@
   <script src="js/bootstrap.min.js"></script>
   <script src="js/barra-scroll.js"></script>
   <script src="js/jquery.superslides.js"></script>
+  <script src="js/lightbox.min.js"></script>
   <script src="js/moment.min.js"></script>
   <script src="js/fullcalendar.min.js"></script>
   <script src="js/calendar.js"></script>

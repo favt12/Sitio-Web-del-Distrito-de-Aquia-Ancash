@@ -27,9 +27,38 @@
           <div class="col-12">
             <div class="title-h1 text-center mt-0">
                 <h1>CASERIOS</h1>
+
+                <div class="anexos mt-5">
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                    <a href="img/cococha.jpg" data-lightbox="img">
+                        <img src="img/thumbs/cococha.jpg" alt="">
+                    </a>
+                </div><!-- .anexos -->
             </div><!-- .title-h1 .text-center .mt-0 -->
           </div><!-- .col-12 -->
-
         </div><!-- .row -->
 
     </div><!-- .container .mt-5 -->
