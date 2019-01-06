@@ -31,6 +31,6 @@
           </div><!-- .col-12 -->
 
         </div><!-- .row -->
-    </div><!-- .container .mt-5 -->
 
+    </div><!-- .container .mt-5 -->
 </main>

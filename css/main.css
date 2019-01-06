@@ -1,3 +1,6 @@
+body {
+  position: relative; }
+
 h1 {
   color: #333;
   font-family: "Dosis", sans-serif;
@@ -35,7 +38,6 @@ h4 {
 p {
   font-family: "Open Sans Condensed", sans-serif;
   color: #586069;
-  letter-spacing: 0.55px;
   font-size: 20px;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
   font-weight: 100; }
@@ -56,13 +58,6 @@ div.barra {
   position: absolute;
   width: 100%; }
 
-nav .btn-bar {
-  background: rgba(255, 255, 255, 0.7);
-  color: #fff; }
-
-@media only screen and (max-width: 991px) {
-  div.menu-letter {
-    background: rgba(52, 152, 219, 0.9); } }
 div.menu-letter li {
   margin-left: 30px; }
 div.menu-letter a {
@@ -77,6 +72,17 @@ div.menu-letter a {
   div.menu-letter a:hover {
     color: #fff !important; }
 
+@media only screen and (max-width: 991px) {
+  div.menu-letter {
+    background: #005073; } }
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background: transparent;
+  color: #fff !important;
+  border-bottom: 1px solid #fff; }
+
+@media only screen and (max-width: 991px) {
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    border-bottom: 0; } }
 .dropdown-menu {
   background: rgba(52, 152, 219, 0.8);
   border-radius: 0; }
@@ -170,6 +176,9 @@ div.title-h1 {
     font-size: 22px; } }
 main div.contenedor-one {
   margin-bottom: 0px; }
+
+nav.nav-discover {
+  background: transparent !important; }
 
 nav.nav-discover {
   background: #d4e6f1; }

@@ -17,24 +17,25 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/fontello.css">
+  <link href="css/lightbox.css" rel="stylesheet">
   <link rel="stylesheet" href="css/fullcalendar.min.css">
   <!--<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
    integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
    crossorigin=""/>-->
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#menu">
 
 <header id="inicio">
-<nav class="barra navbar navbar-expand-lg navbar-light fixed-top">
+<nav id="menu" class="barra navbar navbar-expand-lg navbar-light fixed-top">
   <img src="img/logo.png" width="180px" height="50px" alt="">
   <button class="btn-bar navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="menu-letter collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-    <ul class="navbar-nav">
+    <ul class="act-ray navbar-nav nav-pills">
       <li class="nav-item">
-        <a data-scroll class="nav-link" href="#inicio" aria-pressed="true">Inicio <span class="sr-only">(current)</span></a>
+        <a data-scroll class="nav-link active" href="#inicio" aria-pressed="true">Inicio <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a data-scroll class="nav-link" href="#discover" aria-pressed="true">Descubre</a>
