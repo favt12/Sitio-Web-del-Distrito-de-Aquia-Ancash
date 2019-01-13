@@ -35,6 +35,12 @@ h4 {
 @media only screen and (max-width: 525px) {
   h4 {
     font-size: 15px; } }
+h6 {
+  color: #fff;
+  font-family: "Dosis", sans-serif;
+  text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2);
+  font-size: 18px; }
+
 p {
   font-family: "Open Sans Condensed", sans-serif;
   color: #586069;
@@ -221,5 +227,11 @@ div.data-content-btn a {
 
 .map {
   height: 300px; }
+
+div.footer {
+  background: #581845; }
+div.sociales a {
+  color: white;
+  font-size: 30px; }
 
 /*# sourceMappingURL=main.css.map */

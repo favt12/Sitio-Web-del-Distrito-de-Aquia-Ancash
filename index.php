@@ -3,6 +3,7 @@
 <?php require_once 'includes/templates/descubre.php' ?>
 <?php require_once 'includes/templates/datos.php' ?>
 <?php require_once 'includes/templates/ubicacion.php' ?>
+<?php require_once 'includes/templates/footer.php' ?>
 
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>
