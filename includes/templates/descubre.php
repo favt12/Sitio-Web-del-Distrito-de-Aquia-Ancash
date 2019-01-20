@@ -42,3 +42,5 @@
 	</div><!-- .container -->
 
 </section>
+
+<div class="fb-comments" data-href="http://localhost/aquia_page_oficial" data-width="60%" data-numposts="4"></div>

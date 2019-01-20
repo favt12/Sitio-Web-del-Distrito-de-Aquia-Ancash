@@ -31,47 +31,113 @@
         <div class="col-12">
           <div class="title-h1 text-center mt-0">
               <h1>CASERIOS</h1>
-              <div class="anexos mt-5">
+              <div class="anexos row justify-content-center text-uppercase mt-5">
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2 mt-2">Racrachaca</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Uranyaqu</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Santa Rosa</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Pacarenca</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Pachapaqui</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">San Miguel</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Villanueva</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Vista Alegre</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
+                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                    <div class="card mt-3">
+                      <a href="img/cococha.jpg" data-lightbox="img">
+                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Suyan</h5>
+                      </div>
+                    </div>
+                  </div>
 
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
-
-                          <a href="img/cococha.jpg" data-lightbox="img">
-                              <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-                          </a>
               </div><!-- .anexos -->
           </div><!-- .title-h1 .text-center .mt-0 -->
         </div><!-- .col-12 -->
       </div><!-- .row -->
     </div>
 </main>
+
+<!-- <a href="img/cococha.jpg" data-lightbox="img">
+     <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
+     </a> -->

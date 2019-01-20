@@ -35,11 +35,17 @@ h4 {
 @media only screen and (max-width: 525px) {
   h4 {
     font-size: 15px; } }
+h5 {
+  color: #333;
+  font-family: "Dosis", sans-serif;
+  text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2);
+  font-size: 15px; }
+
 h6 {
   color: #fff;
   font-family: "Dosis", sans-serif;
   text-shadow: 1px 1px 0 rgba(189, 195, 199, 0.2);
-  font-size: 18px; }
+  font-size: 15px; }
 
 p {
   font-family: "Open Sans Condensed", sans-serif;
@@ -176,6 +182,8 @@ div.title-h1 {
   margin-bottom: 80px; }
   div.title-h1 h1 {
     margin-bottom: 0; }
+  div.title-h1 .title-anexos {
+    background: #f3ebea; }
 
 @media only screen and (max-width: 525px) {
   div.title-h1 h1 {
@@ -229,7 +237,7 @@ div.data-content-btn a {
   height: 300px; }
 
 div.footer {
-  background: #581845; }
+  background: #005073; }
 div.sociales a {
   color: white;
   font-size: 30px; }
