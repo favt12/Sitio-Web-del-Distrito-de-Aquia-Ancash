@@ -3,7 +3,9 @@
 <?php require_once 'includes/templates/descubre.php' ?>
 <?php require_once 'includes/templates/datos.php' ?>
 <?php require_once 'includes/templates/ubicacion.php' ?>
+<?php require_once 'includes/templates/comments.php' ?>
 <?php require_once 'includes/templates/footer.php' ?>
+
 
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>
@@ -18,6 +20,7 @@
   <script src="js/fullcalendar.min.js"></script>
   <script src="js/calendar.js"></script>
   <script src="js/locale/es.js"></script>
+  <script src="js/commentsfk.js"></script>
    <!-- Make sure you put this AFTER Leaflet's CSS -->
   <!--<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
    integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
