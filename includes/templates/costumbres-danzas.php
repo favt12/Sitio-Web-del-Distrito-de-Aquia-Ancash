@@ -42,8 +42,8 @@
       </div><!-- .slider .col-12 .col-lg-7-->
 
       <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-        <h3>Fiesta de San Miguel</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h3>Fiesta a honor al patron San Miguel Arcangel</h3>
+        <p>Inicia el 27 de septiembre y culmina el 2 de Octubre</p>
       </div>
   </div><!-- .row -->
 
@@ -51,8 +51,10 @@
 
   <div class="row">
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-      <h3>Señor de Cayac</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h3>Fiesta a Honor al Señor de Cayac</h3>
+      <p>Inicia la primera semana de Mayo siendo el dia central el 03 de dicho mes.
+        Cayac es un santuario a 15 minutos del pueblo de Aquia a orillas del rio, donde se puede apreciar al señor de Cayac que es una imagen de cristo representada en piedra que fue encontrada por un lugareño. En visperas de la fiesta los devotos van al santuario para la misa oficiada por el sacerdote, luego se lleva acabo la procesion y acto seguido los asistentes son invitados por los mayordomos para una cena y luego continuar con la festividad con sus musicas costumbristas.
+      </p>
     </div>
 
     <div class="col-12 col-lg-7 slider">
@@ -136,7 +138,7 @@
     </div><!-- .slider -->
 
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-      <h3>Fiesta del Niño Jesus</h3>
+      <h3>Fiesta a honor al Niño Jesus</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
   </div><!-- .row -->
@@ -146,7 +148,7 @@
   <div class="row mb-5">
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
       <h3>Carnavales</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>Se realiza en inicios del mes de Marzo con la tradicional cortada de arbol, serpentina, globos con agua, harina e infaltalble los platos tipicos de la region y sus musicas costumbristas.</p>
     </div>
 
     <div class="col-12 col-lg-7 slider">
@@ -232,8 +234,8 @@
     </div><!-- .slider -->
 
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-      <h3>Baile del Inca y su Paccllas</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h3>Las Paccllas</h3>
+      <p>Las Paccllas o esposas del Inca, esta danza es de origen colonial siendo su coreografia de caracter historico donde hace ver la llegada de los españoles y la conquista del imperio.</p>
     </div>
 
 

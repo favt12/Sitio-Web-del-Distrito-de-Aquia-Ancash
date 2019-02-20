@@ -24,7 +24,7 @@
    crossorigin=""/>-->
 </head>
 
-<body data-spy="scroll" data-target="#menu">
+<body data-spy="scroll" data-target="#menu"><!-- scroll page body -->
 
 <header id="inicio">
   <nav id="menu" class="barra navbar navbar-expand-lg navbar-light fixed-top">
@@ -68,9 +68,13 @@
           <h4>3 DE MAYO</h4>
         </div>
       </li>
-      <li><img src="img/aquiariooscuro.png"></li>
-      <li><img src="img/aquia_foto_sanmiquel.jpg"></li>
-      <li><img src="img/iglesiapanorama.jpg"></li>
+      <li>
+        <img src="img/aquia_foto_sanmiquel.jpg">
+        <div class="carousel-caption">
+          <h2>SAN MIGUEL ARCANGEL</h2>
+          <h4>27 DE SEPTIEMBRE</h4>
+        </div>
+      </li>
     </ul>
     <nav class="slides-navigation">
       <a href="#" class="next"><span class="icon-right-open"></span></a>
