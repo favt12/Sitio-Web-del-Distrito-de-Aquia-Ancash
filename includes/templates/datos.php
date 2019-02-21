@@ -39,18 +39,22 @@
             ohohoh
           </div>
           <div class="tab-pane fade" id="nav-clima" role="tabpanel" aria-labelledby="nav-clima-tab">
-            <div class="row">
+
                 <div class="mb-5">
                   <h3 class="ml-5">CLIMA</h3>
                 </div>
+
+                <div class="data-icon row justify-content-center justify-content-md-start">
+                  <i class="icon-cloud-sun"></i>
+                </div>
                 <div class="w-100"></div>
                 <!-- www.tutiempo.net - Ancho:398px - Alto:89px -->
-                <div class="ml-2" id="TT_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></div>
+                <div class="ml-2 pt-3" id="TT_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></div>
             </div>
 
           </div>
         </div>
-      </div>
+      </div><!-- .data-content-left -->
 
     </div><!-- .row -->
   </div><!-- .container-fluid -->
