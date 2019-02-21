@@ -10,11 +10,6 @@
                 <div class="px-3">
                     <p>AQUIA te invita a disfrutar de sus lugares mas atractivos y recónditos  de esta hermosa tierra "EL PARAISO ESCONDIDO", un lugar hospitalario que te sentiras como en casa donde disfrutaras de las mejores fiestas costumbristas y sobre todo ese ambiente natural que nos encanta, si quieres saber más sigueme en este recorrido.
                 </div>
-
-                <div class="w-100 d-flex align-items-end">
-                    <button type="button" class="btn btn-outline-info btn-block">Historia de AQUIA
-                    </button>
-                </div>
             </div>
             <div class="col-12 col-md-6 col-lg-7 d-flex align-items-center">
                 <div class="embed-responsive embed-responsive-16by9 mt-2">
@@ -39,6 +34,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2 mt-2">Racrachaca</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -50,6 +46,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Uranyaqu</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -61,6 +58,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Santa Rosa</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -72,6 +70,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pacarenca</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -83,6 +82,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pachapaqui</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>04 al 08 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -94,6 +94,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">San Miguel</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -105,6 +106,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Villanueva</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -116,6 +118,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Vista Alegre</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
@@ -127,6 +130,7 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Suyan</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
