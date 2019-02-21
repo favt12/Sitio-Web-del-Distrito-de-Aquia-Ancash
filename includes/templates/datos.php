@@ -26,9 +26,11 @@
             <?php require_once 'includes/templates/calendar.php' ?>
           </div>
           <div class="tab-pane fade" id="nav-movil" role="tabpanel" aria-labelledby="nav-movil-tab">
-            <h2>xwdsdsd</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <div class="col-12 col-md-8">
+              <h3 class="mb-5">¿Cómo llégo?</h3>
+              <p>Para llegar al distrito de Aquia desde Lima, existen dos rutas: Una es la que parte del km 183 de la Panamericana Norte (Paramonga) y tomar el desvío de la carretera que va hacia Huaraz, a la altura de Conococha tomar el desvío que llega hasta Chiquián y termina en el pueblo de Aquia.
+                La otra ruta también tiene el mismo recorrido desde la Panamericana Norte (Paramonga) hasta Conococha solo que de ahí se debe tomar la carretera que va a Antamina y hasta el cruce llamado por los pobladores de la zona como BY PASE de ahí tomar el desvío para racrachacra la cual los lleva directo hasta Aquia en apenas 15 minutos.</p>
+            </div>
           </div>
           <div class="tab-pane fade" id="nav-ambulance" role="tabpanel" aria-labelledby="nav-ambulance-tab">
             dxdxdxd
@@ -37,7 +39,15 @@
             ohohoh
           </div>
           <div class="tab-pane fade" id="nav-clima" role="tabpanel" aria-labelledby="nav-clima-tab">
-            jhkjukjkhj
+            <div class="row">
+                <div class="mb-5">
+                  <h3 class="ml-5">CLIMA</h3>
+                </div>
+                <div class="w-100"></div>
+                <!-- www.tutiempo.net - Ancho:398px - Alto:89px -->
+                <div class="ml-2" id="TT_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></div>
+            </div>
+
           </div>
         </div>
       </div>
