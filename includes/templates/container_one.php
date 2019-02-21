@@ -27,7 +27,7 @@
           <div class="title-h1 text-center mt-0">
               <h1>CASERIOS</h1>
               <div class="anexos row justify-content-center text-uppercase mt-5">
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -39,7 +39,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -51,7 +51,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -63,7 +63,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -75,7 +75,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -87,7 +87,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -99,7 +99,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -111,7 +111,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
@@ -123,7 +123,7 @@
                     </div>
                   </div>
 
-                  <div class="one-anexos col-12 col-sm-4 col-md-3">
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-3">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
