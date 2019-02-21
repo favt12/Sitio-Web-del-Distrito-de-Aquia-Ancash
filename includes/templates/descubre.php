@@ -11,7 +11,8 @@
 		<div class="row">
 			<div class="discover col">
 				<h3 class="my-4">DESCUBRE AQUIA</h3>
-				<p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt ipsum dolor sit amet consectetur adipisicing elit. Magni iusto quibusdam porro distinctio, fuga dignissimos minus dolore odio necessitatibus similique sint rem quae! Tenetur minima nemo doloremque tempore placeat nesciunt!</p>
+				<p class="text-justify">El distrito de Aquía es uno de los quince distritos de la provincia de Bolognesi, ubicado en el departamento de Áncash, en el Perú. Limita al norte con la provincia de Huari, al este con el distrito de Huallanca y el distrito de Huasta, al sur con el distrito de Chiquián y al oeste con la provincia de Recuay.	</p>
+				<p>Los primeros pobladores de esta zona llegaron desde Chavín, trayendo consigo su fé religiosa y con ello a su dios el Apu Cóndor; tuvieron como su capital al cerro Ichik Aynuck, hoy llamado Jerusalén. El distrito fue creado el 2 de enero de 1857, en el gobierno del Presidente Ramón Castilla.</p>
 			</div>
 		</div>
 
