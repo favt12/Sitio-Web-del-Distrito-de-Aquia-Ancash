@@ -27,35 +27,45 @@
           </div>
           <div class="tab-pane fade" id="nav-movil" role="tabpanel" aria-labelledby="nav-movil-tab">
             <div class="col-12 col-md-8">
-              <h3 class="mb-5">¿Cómo llégo?</h3>
+              <h3 class="mb-5 text-center">¿CÓMO LLÉGO?</h3>
+              <div class="data-icon row justify-content-center"><i class="icon-taxi"></i></div>
               <p>Para llegar al distrito de Aquia desde Lima, existen dos rutas: Una es la que parte del km 183 de la Panamericana Norte (Paramonga) y tomar el desvío de la carretera que va hacia Huaraz, a la altura de Conococha tomar el desvío que llega hasta Chiquián y termina en el pueblo de Aquia.
-                La otra ruta también tiene el mismo recorrido desde la Panamericana Norte (Paramonga) hasta Conococha solo que de ahí se debe tomar la carretera que va a Antamina y hasta el cruce llamado por los pobladores de la zona como BY PASE de ahí tomar el desvío para racrachacra la cual los lleva directo hasta Aquia en apenas 15 minutos.</p>
+                La otra ruta también tiene el mismo recorrido desde la Panamericana Norte (Paramonga) hasta Conococha solo que de ahí se debe tomar la carretera que va a Antamina y hasta el cruce llamado por los pobladores de la zona como BY PASE de ahí tomar el desvío para racrachacra la cual lleva directo hasta Aquia en apenas 15 minutos.</p>
             </div>
           </div>
+
           <div class="tab-pane fade" id="nav-ambulance" role="tabpanel" aria-labelledby="nav-ambulance-tab">
-            dxdxdxd
+            <div class="col-12 col-md-8">
+              <h3 class="text-center mb-5">EMERGENCIA</h3>
+              <div class="data-icon row justify-content-center"><i class="icon-ambulance"></i></div>
+            </div>
           </div>
+
           <div class="tab-pane fade" id="nav-dollar" role="tabpanel" aria-labelledby="nav-dollar-tab">
-            ohohoh
+            <div class="col-12 col-md-8">
+              <h3 class="text-center mb-5">MONEDA</h3>
+              <div class="data-icon row justify-content-center"><i class="icon-dollar"></i></div>
+              <ul>
+                <li><p><small><strong>TIPO DE MONEDA:</strong> Nuevo Sol PERÚ.</small></p></li>
+              </ul>
+              <div class="row justify-content-center mt-5">
+                <iframe id="tmcmini" src="https://themoneyconverter.com/ES/MoneyConverter.aspx?from=USD&amp;to=PEN" style="width: 175px; height: 202px; border: none; background-color: #ffffff;" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+              </div>
+            </div>
           </div>
+
           <div class="tab-pane fade" id="nav-clima" role="tabpanel" aria-labelledby="nav-clima-tab">
-
-                <div class="mb-5">
-                  <h3 class="ml-5">CLIMA</h3>
+                <div class="col-12 col-md-8">
+                    <h3 class="text-center mb-5">CLIMA</h3>
+                  <div class="data-icon row justify-content-center"><i class="icon-cloud-sun"></i>                <!-- www.tutiempo.net - Ancho:398px - Alto:89px -->
+                    <div class="w-100"></div>
+                    <div class="ml-2 pt-3" id="TT_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></div>
+                  </div>
                 </div>
-
-                <div class="data-icon row justify-content-center justify-content-md-start">
-                  <i class="icon-cloud-sun"></i>
-                </div>
-                <div class="w-100"></div>
-                <!-- www.tutiempo.net - Ancho:398px - Alto:89px -->
-                <div class="ml-2 pt-3" id="TT_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></div>
             </div>
 
           </div>
-        </div>
-      </div><!-- .data-content-left -->
-
-    </div><!-- .row -->
-  </div><!-- .container-fluid -->
+        </div><!-- .data-content-left -->
+      </div><!-- .row .justify-content-between -->
+    </div><!-- .container-fluid -->
 </section>
