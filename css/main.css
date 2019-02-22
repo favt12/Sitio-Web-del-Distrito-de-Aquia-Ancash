@@ -70,6 +70,24 @@ div.barra {
   position: absolute;
   width: 100%; }
 
+.navbar-light .navbar-toggler {
+  border-color: transparent; }
+
+/*toggle-icon */
+.toggle-icon {
+  font-size: 0.4em;
+  cursor: pointer; }
+  .toggle-icon .bar {
+    display: block;
+    width: 1em;
+    height: 0.2em;
+    margin: 0.9em;
+    border-right: 2.8em solid #fff;
+    border-left: 0.6em solid #d6d6d6;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
+
 div.menu-letter li {
   margin-left: 30px; }
 div.menu-letter a {
