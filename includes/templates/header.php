@@ -30,7 +30,11 @@
   <nav id="menu" class="barra navbar navbar-expand-lg navbar-light fixed-top">
     <img src="img/logo.png" width="180px" height="50px" alt="">
     <button class="btn-bar navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+        <div class="toggle-icon">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div><!-- .toggle-icon -->
     </button>
     <div class="menu-letter collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
       <ul class="act-ray navbar-nav nav-pills">
