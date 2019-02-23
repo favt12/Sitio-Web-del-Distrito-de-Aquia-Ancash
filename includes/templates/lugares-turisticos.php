@@ -61,24 +61,15 @@
       <ol class="carousel-indicators">
         <li data-target="#slider-two" data-slide-to="0" class="active"></li>
         <li data-target="#slider-two" data-slide-to="1"></li>
-        <li data-target="#slider-two" data-slide-to="2"></li>
       </ol>
 
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/cococha.jpg" alt="imagen #1" class="d-block img-fluid" >
+          <img src="img/iglesia_bancas_plaza.jpg" alt="imagen #1" class="d-block img-fluid" >
         </div><!-- .carousel-item .active -->
 
         <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #2" class="d-block img-fluid">
-        </div><!-- .carousel-item -->
-
-        <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #3" class="d-block img-fluid">
-          <div class="carousel-caption d-none d-md-block">
-            <h4>CONOCE LAS MEJORES PLAYAS</h4>
-            <p>Diversion Asegurada 100%</p>
-          </div>
+          <img src="img/iglesiaaquia.jpg" alt="imagen #2" class="d-block img-fluid">
         </div><!-- .carousel-item -->
      </div><!-- .carousel-inner -->
 
@@ -155,24 +146,15 @@
       <ol class="carousel-indicators">
         <li data-target="#slider-seven" data-slide-to="0" class="active"></li>
         <li data-target="#slider-seven" data-slide-to="1"></li>
-        <li data-target="#slider-seven" data-slide-to="2"></li>
       </ol>
 
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/cococha.jpg" alt="imagen #1" class="d-block img-fluid" >
+          <img src="img/puyaraimondi.jpeg" alt="imagen #1" class="d-block img-fluid" >
         </div><!-- .carousel-item .active -->
 
         <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #2" class="d-block img-fluid">
-        </div><!-- .carousel-item -->
-
-        <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #3" class="d-block img-fluid">
-          <div class="carousel-caption d-none d-md-block">
-            <h4>CONOCE LAS MEJORES PLAYAS</h4>
-            <p>Diversion Asegurada 100%</p>
-          </div>
+          <img src="img/puya.jpeg" alt="imagen #2" class="d-block img-fluid">
         </div><!-- .carousel-item -->
      </div><!-- .carousel-inner -->
 
@@ -245,23 +227,15 @@
       <ol class="carousel-indicators">
         <li data-target="#slider-nine" data-slide-to="0" class="active"></li>
         <li data-target="#slider-nine" data-slide-to="1"></li>
-        <li data-target="#slider-nine" data-slide-to="2"></li>
       </ol>
 
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/cococha.jpg" alt="imagen #1" class="d-block img-fluid" >
+          <img src="img/toros_aquia.png" alt="imagen #1" class="d-block img-fluid" >
         </div><!-- .carousel-item .active -->
-
         <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #2" class="d-block img-fluid">
-        </div><!-- .carousel-item -->
-
-        <div class="carousel-item">
-          <img src="img/cococha.jpg" alt="imagen #3" class="d-block img-fluid">
+          <img src="img/plaza_toros_panorama.jpg" alt="imagen #3" class="d-block img-fluid">
           <div class="carousel-caption d-none d-md-block">
-            <h4>CONOCE LAS MEJORES PLAYAS</h4>
-            <p>Diversion Asegurada 100%</p>
           </div>
         </div><!-- .carousel-item -->
      </div><!-- .carousel-inner -->
