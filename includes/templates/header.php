@@ -66,7 +66,7 @@
         </div>
       </li>
       <li>
-        <img src="img/señor_cayac.jpg">
+        <img src="img/cayac1.jpg">
         <div class="carousel-caption">
           <h2>SANTUARIO DEL SEÑOR DE CAYAC</h2>
           <h4>3 DE MAYO</h4>

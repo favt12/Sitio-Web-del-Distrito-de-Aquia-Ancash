@@ -28,45 +28,33 @@
               <h1>CASERIOS</h1>
               <div class="anexos row justify-content-center text-uppercase mt-5">
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                    <div class="card">
+                      <a href="img/racrachaca_aquia.png" data-lightbox="img">
+                         <img src="img/racrachaca_aquia.png" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2 mt-2">Racrachaca</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>26 al 30 de Diciembre</small></h5>
                       </div>
                     </div>
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                    <div class="card mt-5">
+                      <a href="img/uranyacu.jpg" data-lightbox="img">
+                         <img src="img/uranyacu.jpg" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
-                        <h5 class="card-title mt-2">Uranyaqu</h5>
+                        <h5 class="card-title mt-2">Uranyacu</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
-                      </a>
-                      <div class="title-anexos">
-                        <h5 class="card-title mt-2">Santa Rosa</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                    <div class="card">
+                      <a href="img/pacarenca_aquia.png" data-lightbox="img">
+                         <img src="img/pacarenca_aquia.png" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pacarenca</h5>
@@ -76,9 +64,21 @@
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                    <div class="card mt-5">
+                      <a href="img/santa_rosa_aquia.jpg" data-lightbox="img">
+                         <img src="img/santa_rosa_aquia.jpg" class="card-img-top mt-1" alt="">
+                      </a>
+                      <div class="title-anexos">
+                        <h5 class="card-title mt-2">Santa Rosa</h5>
+                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="one-anexos col-6 col-sm-4 col-md-3">
+                    <div class="card">
+                      <a href="img/pachapaqui.png" data-lightbox="img">
+                         <img src="img/pachapaqui.png" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pachapaqui</h5>
@@ -88,7 +88,7 @@
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
+                    <div class="card mt-5">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
                       </a>
@@ -100,9 +100,9 @@
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                    <div class="card">
+                      <a href="img/villanueva.jpg" data-lightbox="img">
+                         <img src="img/villanueva.jpg" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Villanueva</h5>
@@ -112,7 +112,7 @@
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
+                    <div class="card mt-5">
                       <a href="img/cococha.jpg" data-lightbox="img">
                          <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
                       </a>
@@ -124,9 +124,9 @@
                   </div>
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
-                    <div class="card mt-3">
+                    <div class="card mt-5">
                       <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top mt-1" alt="">
+                         <img src="img/cococha.jpg" class="card-img-top mt-1" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Suyan</h5>
