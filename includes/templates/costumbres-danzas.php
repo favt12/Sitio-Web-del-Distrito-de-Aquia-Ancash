@@ -9,24 +9,15 @@
           <ol class="carousel-indicators">
             <li data-target="#sliderone" data-slide-to="0" class="active"></li>
             <li data-target="#sliderone" data-slide-to="1"></li>
-            <li data-target="#sliderone" data-slide-to="2"></li>
           </ol>
 
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="img/aquia_hd.png" alt="imagen #1" class="d-block img-fluid" >
+              <img src="img/paccllas_arcangel.jpg" alt="imagen #1" class="d-block img-fluid" >
             </div><!-- .carousel-item .active -->
 
             <div class="carousel-item">
-              <img src="img/aquia_hd.png" alt="imagen #2" class="d-block img-fluid">
-            </div><!-- .carousel-item -->
-
-            <div class="carousel-item">
-              <img src="img/aquia_hd.png" alt="imagen #3" class="d-block img-fluid">
-              <div class="carousel-caption d-none d-md-block">
-                <h4>CONOCE LAS MEJORES PLAYAS</h4>
-                <p>Diversion Asegurada 100%</p>
-              </div>
+              <img src="img/fiesta_arcangel.jpg" alt="imagen #2" class="d-block img-fluid">
             </div><!-- .carousel-item -->
          </div><!-- .carousel-inner -->
 
@@ -62,25 +53,16 @@
       <div class="carousel slide" id="sliderthree" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#sliderthree" data-slide-to="0" class="active"></li>
-          <li data-target="#sliderthree" data-slide-to="1"></li>
-          <li data-target="#sliderthree" data-slide-to="2"></li>
+          <!--<li data-target="#sliderthree" data-slide-to="1"></li>-->
         </ol>
 
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/aquia_hd.png" alt="imagen #1" class="d-block img-fluid" >
+            <img src="img/cayac_misa.jpg" alt="imagen #1" class="d-block img-fluid" >
           </div><!-- .carousel-item .active -->
 
-          <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #2" class="d-block img-fluid">
-          </div><!-- .carousel-item -->
-
-          <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #3" class="d-block img-fluid">
-            <div class="carousel-caption d-none d-md-block">
-              <h4>CONOCE LAS MEJORES PLAYAS</h4>
-              <p>Diversion Asegurada 100%</p>
-            </div>
+        <!--<div class="carousel-item">
+            <img src="img/" alt="imagen #2" class="d-block img-fluid">
           </div><!-- .carousel-item -->
        </div><!-- .carousel-inner -->
 
@@ -157,24 +139,14 @@
         <ol class="carousel-indicators">
           <li data-target="#slider-five" data-slide-to="0" class="active"></li>
           <li data-target="#slider-five" data-slide-to="1"></li>
-          <li data-target="#slider-five" data-slide-to="2"></li>
         </ol>
 
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/aquia_hd.png" alt="imagen #1" class="d-block img-fluid" >
+            <img src="img/carnavales1.jpg" alt="imagen #1" class="d-block img-fluid" >
           </div><!-- .carousel-item .active -->
-
           <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #2" class="d-block img-fluid">
-          </div><!-- .carousel-item -->
-
-          <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #3" class="d-block img-fluid">
-            <div class="carousel-caption d-none d-md-block">
-              <h4>CONOCE LAS MEJORES PLAYAS</h4>
-              <p>Diversion Asegurada 100%</p>
-            </div>
+            <img src="img/carnavales_aquia.jpg" alt="imagen #3" class="d-block img-fluid">
           </div><!-- .carousel-item -->
        </div><!-- .carousel-inner -->
 
@@ -201,24 +173,15 @@
         <ol class="carousel-indicators">
           <li data-target="#slidersix" data-slide-to="0" class="active"></li>
           <li data-target="#slidersix" data-slide-to="1"></li>
-          <li data-target="#slidersix" data-slide-to="2"></li>
         </ol>
 
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/aquia_hd.png" alt="imagen #1" class="d-block img-fluid" >
+            <img src="img/paccllas.jpg" alt="imagen #1" class="d-block img-fluid" >
           </div><!-- .carousel-item .active -->
 
           <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #2" class="d-block img-fluid">
-          </div><!-- .carousel-item -->
-
-          <div class="carousel-item">
-            <img src="img/aquia_hd.png" alt="imagen #3" class="d-block img-fluid">
-            <div class="carousel-caption d-none d-md-block">
-              <h4>CONOCE LAS MEJORES PLAYAS</h4>
-              <p>Diversion Asegurada 100%</p>
-            </div>
+            <img src="img/paccllas_inca.jpg" alt="imagen #2" class="d-block img-fluid">
           </div><!-- .carousel-item -->
        </div><!-- .carousel-inner -->
 
@@ -237,6 +200,42 @@
       <h3>Las Paccllas</h3>
       <p>Las Paccllas o esposas del Inca, esta danza es de origen colonial siendo su coreografia de caracter historico donde hace ver la llegada de los españoles y la conquista del imperio.</p>
     </div>
+  </div><!-- .row -->
 
+  <hr>
 
+  <div class="row">
+    <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
+      <h3>Danza de los Negritos </h3>
+      <p>La danza de los negritos o también conocida como cofradía de los negritos es una danza que nace en las zonas de Huanuco y Pasco, esta danza folclórica peruana que se ejecuta en la zona está ligada a las festividades de Año Nuevo donde el negro representa a la esclavitud en la epoca colonial y el marica que tiene una vestimenta de mujer con velo y existe un personaje curioso que pone la picardia a la danza, el MILISHU la cual su traje es un uniforme de la antigua guardia civil y una campanilla que es costumbre que a partir del 30 de Diciembre a 02 de Enero danzan por la zona.</p>
+    </div>
+
+    <div class="col-12 col-lg-7 slider">
+
+      <div class="carousel slide" id="sliderseven" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#sliderseven" data-slide-to="0" class="active"></li>
+          <li data-target="#sliderseven" data-slide-to="1"></li>
+        </ol>
+
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="img/negritos.jpg" alt="imagen #1" class="d-block img-fluid" >
+          </div><!-- .carousel-item .active -->
+
+      <div class="carousel-item">
+            <img src="img/negritos3.jpg" alt="imagen #2" class="d-block img-fluid">
+          </div><!-- .carousel-item -->
+       </div><!-- .carousel-inner -->
+
+        <a href="#sliderseven" class="carousel-control-prev" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Anterior</span>
+        </a>
+        <a href="#sliderseven" class="carousel-control-next" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Siguiente</span>
+        </a>
+      </div><!-- .carousel .slide #slider -->
+    </div><!-- .slider -->
   </div><!-- .row -->
