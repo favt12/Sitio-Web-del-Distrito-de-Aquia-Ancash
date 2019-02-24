@@ -37,7 +37,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>26 al 30 de Diciembre</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
@@ -49,7 +49,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card">
@@ -61,7 +61,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
@@ -73,7 +73,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card">
@@ -85,7 +85,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>04 al 08 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
@@ -97,7 +97,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card">
@@ -109,7 +109,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
@@ -121,7 +121,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
@@ -133,7 +133,7 @@
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
-                  </div>
+                  </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
               </div><!-- .anexos -->
           </div><!-- .title-h1 .text-center .mt-0 -->
@@ -141,7 +141,3 @@
       </div><!-- .row -->
     </div>
 </main>
-
-<!-- <a href="img/cococha.jpg" data-lightbox="img">
-     <img src="img/thumbs/cococha.jpg" class="mt-1" alt="">
-     </a> -->
