@@ -15,10 +15,13 @@
         <div class="mb-3">
           <div class="row no-gutters">
             <div class="col-md-7">
-              <img src="img/map_ruta_aquia.png" class="card-img" alt="Ruta">
+              <img src="img/map_ruta_aquia.png" class="rounded border" alt="Ruta">
             </div>
             <div class="col-md-5">
                 <ul class="ml-5 mt-5">
+                  <li><p><small><strong>PAIS:</strong> Perú.</small></p></li>
+                  <li><p><small><strong>REGION:</strong> Ancash.</small></p></li>
+                  <li><p><small><strong>PROVINCIA:</strong> Bolognesi.</small></p></li>
                   <li><p><small><strong>COORDENADAS:</strong> 10° 4′ 59″ S, 77° 7′ 59″.</small></p></li>
                   <li><p><small><strong>ALTITUD:</strong> 3337 m s. n. m..</small></p></li>
                   <li><p><small><strong>SUPERFICIE:</strong> 434.6 km².</small></p></li>
@@ -26,7 +29,7 @@
                   <li><p><small><strong>HUSO HORARIO:</strong> UTC-5.</small></p></li>
                 </ul>
                 <div class="row justify-content-center">
-                  <a href="https://www.google.com/maps/@-10.0724349,-77.1528275,15.25z" class="btn btn-outline-success mt-5" target="_blank">Ver Mapa</a>
+                  <a href="https://www.google.com/maps/@-10.0724349,-77.1528275,15.25z" class="btn btn-success mt-5" target="_blank">Ver Mapa</a>
                 </div>
             </div>
           </div>
