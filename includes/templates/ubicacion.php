@@ -11,11 +11,9 @@
     <div class="row">
       <div class="col-12">
         <h3 class="text-center mb-5">UBICACION DE AQUIA</h3>
-
-        <div class="mb-3">
-          <div class="row no-gutters">
+          <div class="row no-gutters mb-3">
             <div class="col-md-7">
-              <img src="img/map_ruta_aquia.png" class="rounded border" alt="Ruta">
+              <img src="img/map_ruta_aquia.png" class="card-img rounded border" alt="Ruta">
             </div>
             <div class="col-md-5">
                 <ul class="ml-5 mt-5">
@@ -30,11 +28,11 @@
                 </ul>
                 <div class="row justify-content-center">
                   <a href="https://www.google.com/maps/@-10.0724349,-77.1528275,15.25z" class="btn btn-success mt-5" target="_blank">Ver Mapa</a>
-                </div>
-            </div>
-          </div>
-        </div>
+                </div><!-- .row .justify-content-center -->
+            </div><!-- .col-md-5 -->
+          </div><!-- .row .no-gutters .mb-3 -->
         <hr>
+      </div><!-- .col-12 -->
     </div><!-- .row -->
   </div><!-- .container -->
 </section>
