@@ -55,8 +55,8 @@ p {
   font-weight: 100; }
 
 hr {
-  margin-top: 120px;
-  margin-bottom: 120px; }
+  margin-top: 60px;
+  margin-bottom: 60px; }
 
 .title-contenedor {
   background: #f5b041;
@@ -219,7 +219,7 @@ nav.nav-discover {
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-size: 13px; }
+    font-size: 11px; }
     nav.nav-discover a:hover {
       border: 0; }
 
