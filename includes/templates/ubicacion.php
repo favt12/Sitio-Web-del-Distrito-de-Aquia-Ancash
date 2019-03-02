@@ -12,7 +12,7 @@
       <div class="col-12">
         <h3 class="mb-3">UBICACION DE AQUIA</h3>
           <div class="row no-gutters">
-            <p class="text-justify">Para llegar al distrito de Aquia desde Lima, existen dos rutas: Una es la que parte del km 183 de la Panamericana Norte (Paramonga) y tomar el desvío de la carretera que va hacia Huaraz, a la altura de Conococha tomar el desvío que llega hasta Chiquián y termina en el pueblo de Aquia.
+            <p class="text-justyfy">Para llegar al distrito de Aquia desde Lima, existen dos rutas: Una es la que parte del km 183 de la Panamericana Norte (Paramonga) y tomar el desvío de la carretera que va hacia Huaraz, a la altura de Conococha tomar el desvío que llega hasta Chiquián y termina en el pueblo de Aquia.
                 La otra ruta también tiene el mismo recorrido desde la Panamericana Norte (Paramonga) hasta Conococha solo que de ahí se debe tomar la carretera que va a Antamina y hasta el cruce llamado por los pobladores de la zona como BY PASS de ahí tomar el desvío para racrachacra la cual lleva directo hasta Aquia en apenas 15 minutos.</p>
             <div class="col-md-7">
               <img src="img/map_ruta_aquia.png" class="card-img rounded-top border mb-2" alt="Ruta">
