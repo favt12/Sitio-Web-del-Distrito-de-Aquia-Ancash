@@ -61,8 +61,8 @@
       <li>
         <img src="img/aquia_panorama.png">
         <div class="carousel-caption">
-          <h2>AQUIA - PARAISO ESCONDIDO</h2>
-          <h4>Ancash, Bolognesi, Aquia</h4>
+          <h2>AQUIA "PARAISO ESCONDIDO"</h2>
+          <h4>Perú - Ancash, Bolognesi, Aquia</h4>
         </div>
       </li>
       <li>
@@ -76,7 +76,14 @@
         <img src="img/aquia_foto_sanmiquel.jpg">
         <div class="carousel-caption">
           <h2>SAN MIGUEL ARCANGEL</h2>
-          <h4>27 DE SEPTIEMBRE</h4>
+          <h4>27 DE SEPTIEMBRE AL 2 DE OSCTUBRE</h4>
+        </div>
+      </li>
+      <li>
+        <img src="img/visita_aquia.jpg">
+        <div class="carousel-caption">
+          <h2>¡VISITA AQUIA!</h2>
+          <h4>Te Esperamos...</h4>
         </div>
       </li>
     </ul>
