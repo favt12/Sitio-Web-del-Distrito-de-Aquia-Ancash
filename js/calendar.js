@@ -23,6 +23,12 @@ $(function() {
         start: "2019-05-03",
         end: "2019-05-05",
         textColor: "white"
+      },
+      {
+        title: "CARNAVALES",
+        start: "2019-03-05",
+        end: "2019-03-08",
+        textColor: "white"
       }
       ]
   })
