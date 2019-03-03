@@ -34,8 +34,8 @@
 
       <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
         <h3>Fiesta en honor  al patron San Miguel Arcangel</h3>
-        <p>Inicia el 27 de septiembre y culmina el 2 de Octubre llevando a cabo la tradicional fiesta costumbrista en honor al santo patron.</p>
-        <p>Los mayordomos reprensenta al kasike de un territorio determinado encargandose de realizar la misa  y dar alimentos a los visitantes y pobladores durante toda la fiesta y hacerlos bailer y sentirse comodo durante todo el evento.
+        <p>Inicia el 27 de septiembre y culmina el 2 de Octubre llevando a cabo la tradicional fiesta costumbrista en honor al santo patrón.</p>
+        <p>Los mayordomos reprensentan al kasike de un territorio determinado encargandose de realizar la misa  y dar alimentos a los visitantes y pobladores durante toda la fiesta y hacerlos bailer y sentirse comodo durante todo el evento.
 </p>
       </div>
   </div><!-- .row -->
@@ -113,8 +113,8 @@
     </div><!-- .slider -->
 
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-      <h3>Fiesta a honor al Niño Jesus</h3>
-      <p>Es un fiesta bastante celebrada por los pobladores, inicia el 30 diciembre al 02 de enero teniendo en particularidad mostrar la danza de los negritos durante todo la celebracion en homenaje al Niño Jesus, acompañado de la orquesta que hace bailar a toda la poblacion motivando en seguir la costumbre todos los años.</p>
+      <h3>Fiesta en honor al Niño Jesus</h3>
+      <p>Es un fiesta bastante celebrada por los pobladores, inicia el 30 diciembre al 02 de enero teniendo en particularidad mostrar la danza de los negritos durante todo la celebracion en homenaje al Niño Jesus, acompañado de la orquesta que hace bailar a toda la poblacion motivando a seguir la costumbre todos los años.</p>
     </div>
   </div><!-- .row -->
 
@@ -200,7 +200,7 @@
   <div class="row">
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
       <h3>Danza de los Negritos </h3>
-      <p>La danza de los negritos o también conocida como cofradía de los negritos es una danza que nace en las zonas de Huanuco y Pasco, esta danza folclórica peruana que se ejecuta en la zona y que está ligada a las festividades de Año Nuevo donde el negro representa a la esclavitud en la epoca colonial y el marica que tiene una vestimenta de mujer con velo y existe un personaje curioso que pone la picardia a la danza, el MILISHU la cual su traje es un uniforme de la antigua guardia civil utilizando una campanilla que es costumbre, a partir del 30 de Diciembre a 02 de Enero es donde se lleva  a cabo dicha Danza.</p>
+      <p>La danza de los negritos o también conocida como cofradía de los negritos es una danza que nace en las zonas de Huanuco y Pasco, esta danza folclórica peruana que se ejecuta en la zona y que está ligada a las festividades de Año Nuevo donde el negro representa a la esclavitud en la epoca colonial y el marica que tiene una vestimenta de mujer con velo y existe un personaje curioso que pone la picardia a la danza, el MILISHU la cual su traje es un uniforme de la antigua guardia civil utilizando una campanilla que es costumbre, a partir del 30 de Diciembre al 02 de Enero es donde se lleva  a cabo dicha Danza.</p>
     </div>
 
     <div class="col-12 col-lg-7 slider">
