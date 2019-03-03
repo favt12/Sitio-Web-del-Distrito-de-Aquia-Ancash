@@ -7,9 +7,9 @@
 		</div>
 	</div>
 
-	<div class="container">
+	<div class="container mb-5">
 		<div class="row">
-			<div class="discover col">
+			<div class="col">
 				<h3 class="my-4">DESCUBRE AQUIA</h3>
 				<p class="text-justify">El distrito de Aquía es uno de los quince distritos de la provincia de Bolognesi, ubicado en el departamento de Áncash, en el Perú. Limita al norte con la provincia de Huari, al este con el distrito de Huallanca y el distrito de Huasta, al sur con el distrito de Chiquián y al oeste con la provincia de Recuay.	</p>
 				<p>Los primeros pobladores de esta zona llegaron desde Chavín, trayendo consigo su fé religiosa y con ello a su dios el Apu Cóndor; tuvieron como su capital al cerro Ichik Aynuck, hoy llamado Jerusalén. El distrito fue creado el 2 de enero de 1857, en el gobierno del Presidente Ramón Castilla.</p>
@@ -40,6 +40,93 @@
 				</div>
 
 			</div><!-- .discover-content .row -->
+			<div class="row portafolio justify-content-center">
+            <div class="col-10">
+                <div class="title-h1 text-center">
+                    <h1>GASTRONOMIA</h1>
+				</div><!-- .title-h1 .text-center -->
+					<div class="row galeria justify-content-center">
+						<div class="contenedor-imagen col-6 col-lg-4">
+						<a href="img/sopa_mote.jpg" data-lightbox="img">
+                         <img src="img/sopa_mote.jpg" class="card-img" alt="">
+						</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+						
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+							<a href="img/chicha.jpg" data-lightbox="img">
+                         		<img src="img/chicha.jpg" class="card-img" alt="">	
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+							<a href="img/pachamanca.jpg" data-lightbox="img">
+								<img src="img/pachamanca.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+						<div class="contenedor-imagen col-6 col-lg-4">
+							<a href="img/pan.jpg" data-lightbox="img">
+								<img src="img/pan.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+
+						<div class="contenedor-imagen col-6 col-lg-4">
+							<a href="img/truchas.jpg" data-lightbox="img">
+								<img src="img/truchas.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+							<a href="img/sopa_verde1.jpg" data-lightbox="img">
+								<img src="img/sopa_verde1.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+								<a href="img/tocosh.jpg" data-lightbox="img">
+                         		<img src="img/tocosh.jpg" class="card-img" alt="">	
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+
+						<div class="contenedor-imagen col-6 col-lg-4">
+							<a href="img/umas1.jpg" data-lightbox="img">
+								<img src="img/umas1.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+
+						<div class="contenedor-imagen col-6 col-lg-4">
+							<a href="img/chocho.jpg" data-lightbox="img">
+								<img src="img/chocho.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+							<a href="img/chicharron1.jpg" data-lightbox="img">
+								<img src="img/chicharron1.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+
+						<div class="contenedor-imagen col-12 col-lg-8">
+								<a href="img/locro_cuy.jpg" data-lightbox="img">
+                         		<img src="img/locro_cuy.jpg" class="card-img" alt="">	
+							</a>
+						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
+
+
+						<div class="contenedor-imagen col-6 col-lg-4">
+							<a href="img/queso.jpg" data-lightbox="img">
+								<img src="img/queso.jpg" class="card-img" alt="">
+							</a>
+						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
+
+					</div><!-- .row .galeria .justify-content-center -->
+
+
+            </div>
+		</div>
 	</div><!-- .container -->
 
 </section>
