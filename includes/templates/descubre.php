@@ -46,79 +46,91 @@
                     <h1>GASTRONOMIA</h1>
 				</div><!-- .title-h1 .text-center -->
 					<div class="row galeria justify-content-center">
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 						<a href="img/sopa_mote.jpg" data-lightbox="img">
                          <img src="img/sopa_mote.jpg" class="card-img" alt="">
+						 <h5 class="text-center">caldo de mote</h5 class="text-center">
 						</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 						
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 							<a href="img/chicha.jpg" data-lightbox="img">
-                         		<img src="img/chicha.jpg" class="card-img" alt="">	
+                         		<img src="img/chicha.jpg" class="card-img" alt="">
+								 <h5 class="text-center">CHICHA DE MAIZ</h5 class="text-center">	
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 							<a href="img/pachamanca.jpg" data-lightbox="img">
 								<img src="img/pachamanca.jpg" class="card-img" alt="">
+								<h5 class="text-center">pachamanca</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 							<a href="img/pan.jpg" data-lightbox="img">
 								<img src="img/pan.jpg" class="card-img" alt="">
+								<h5 class="text-center">pan de maiz</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 							<a href="img/truchas.jpg" data-lightbox="img">
 								<img src="img/truchas.jpg" class="card-img" alt="">
+								<h5 class="text-center">trucha frita</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 							<a href="img/sopa_verde1.jpg" data-lightbox="img">
 								<img src="img/sopa_verde1.jpg" class="card-img" alt="">
+								<h5 class="text-center">cashqui</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 								<a href="img/tocosh.jpg" data-lightbox="img">
                          		<img src="img/tocosh.jpg" class="card-img" alt="">	
+								 <h5 class="text-center">tocosh</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
 
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 							<a href="img/umas1.jpg" data-lightbox="img">
 								<img src="img/umas1.jpg" class="card-img" alt="">
+								<h5 class="text-center">humitas</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 							<a href="img/chocho.jpg" data-lightbox="img">
 								<img src="img/chocho.jpg" class="card-img" alt="">
+								<h5 class="text-center">cevivhe de chocho</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 							<a href="img/chicharron1.jpg" data-lightbox="img">
 								<img src="img/chicharron1.jpg" class="card-img" alt="">
+								<h5 class="text-center">chicharron</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 								<a href="img/locro_cuy.jpg" data-lightbox="img">
-                         		<img src="img/locro_cuy.jpg" class="card-img" alt="">	
+                         		<img src="img/locro_cuy.jpg" class="card-img" alt="">
+								 <h5 class="text-center">locro de cuy</h5 class="text-center">	
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
 
-						<div class="contenedor-imagen col-6 col-lg-4">
+						<div class="contenedor-imagen col-12 col-lg-4">
 							<a href="img/queso.jpg" data-lightbox="img">
 								<img src="img/queso.jpg" class="card-img" alt="">
+								<h5 class="text-center">queso aquino</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
 
