@@ -6,16 +6,9 @@ $(function() {
     // ponga sus opciones y devoluciones de llamada aquí
       events: [
       {
-        title: "FIESTA COSTUMBRISTA HONOR A SAN MIGUEL ARCANGEL",
-        start: "2019-09-27",
-        end: "2019-10-03",
-        textColor: "white"
-      },
-
-      {
-        title: "AÑO NUEVO FIESTA DEL NIÑO JESUS",
-        start: "2018-12-29",
-        end: "2019-01-04",
+        title: "CARNAVALES",
+        start: "2019-03-02",
+        end: "2019-03-05",
         textColor: "white"
       },
       {
@@ -25,9 +18,15 @@ $(function() {
         textColor: "white"
       },
       {
-        title: "CARNAVALES",
-        start: "2019-03-05",
-        end: "2019-03-08",
+        title: "FIESTA COSTUMBRISTA HONOR A SAN MIGUEL ARCANGEL",
+        start: "2019-09-27",
+        end: "2019-10-03",
+        textColor: "white"
+      },
+      {
+        title: "AÑO NUEVO FIESTA DEL NIÑO JESUS",
+        start: "2018-12-29",
+        end: "2019-01-04",
         textColor: "white"
       }
       ]
