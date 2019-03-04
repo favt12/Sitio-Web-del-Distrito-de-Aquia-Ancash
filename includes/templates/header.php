@@ -54,7 +54,7 @@
         </div>
       </li>
       <li>
-        <img src="img/visita_aquia.jpg">
+        <img src="img/carretera_aquia.jpg">
         <div class="carousel-caption">
           <h2>¡VISITA AQUIA!</h2>
           <h4>Te Esperamos...</h4>

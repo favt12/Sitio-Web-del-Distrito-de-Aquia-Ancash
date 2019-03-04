@@ -25,17 +25,31 @@
           <div class="tab-pane fade show active" id="nav-calendar" role="tabpanel" aria-labelledby="nav-calendar-tab">
             <?php require_once 'includes/templates/calendar.php' ?>
           </div>
+
           <div class="tab-pane fade" id="nav-movil" role="tabpanel" aria-labelledby="nav-movil-tab">
             <div class="col-12 col-md-8">
               <h3 class="mb-5 text-center">MOVILIDAD</h3>
               <div class="data-icon row justify-content-center"><i class="icon-taxi"></i></div>
-            </div>
-          </div>
+                <ul class="list-unstyled text-muted">
+                <li><p><small><strong>LIMA - AQUIA :</strong> La empresa de transportes de Busses CAVASSA párte de lima de sus diferentes puntos de oficinas.</small></p></li>
+                <ul>
+                  <li><small>Av.Nicolas Arriola 198, La Victoria 15034 (Salida 8:00 am)</small></li>
+                  <li><small>Av Huandoy, Los Olivos 15307 (Salida 10:00 am)</small></li>
+                  <li><small>Ovalo Zapallal, Zapallal (Salida 11:00 am)</small></li>
+                  <li><small>Destino : Ancash, Bolognesi, AQUIA (Llegada 6:30 pm)</small></li>
+                  <li><small><strong>AQUIA - LIMA : (Salida 8:30 pm) (Llegada 4:00 am)</strong></small></li>
+                </ul>
+                </ul><!-- .list-unstyled .text-muted -->
+            </div><!-- .col-12 .col-md-8 -->
+          </div><!-- .tab-pane .fade -->
 
           <div class="tab-pane fade" id="nav-ambulance" role="tabpanel" aria-labelledby="nav-ambulance-tab">
             <div class="col-12 col-md-8">
               <h3 class="text-center mb-5">EMERGENCIA</h3>
               <div class="data-icon row justify-content-center"><i class="icon-ambulance"></i></div>
+              <div>
+                <p>Sin Datos...</p>
+              </div>
             </div>
           </div>
 
@@ -44,13 +58,13 @@
               <h3 class="text-center mb-5">MONEDA</h3>
               <div class="data-icon row justify-content-center"><i class="icon-dollar"></i></div>
               <ul>
-                <li><p><small><strong>TIPO DE MONEDA:</strong> Nuevo Sol PERÚ.</small></p></li>
+                <li><p><small><strong>TIPO DE MONEDA :</strong> Nuevo Sol PERÚ.</small></p></li>
               </ul>
               <div class="row justify-content-center mt-5">
                 <iframe id="tmcmini" src="https://themoneyconverter.com/ES/MoneyConverter.aspx?from=USD&amp;to=PEN" style="width: 175px; height: 202px; border: none; background-color: #ffffff;" scrolling="no" marginwidth="0" marginheight="0"></iframe>
-              </div>
-            </div>
-          </div>
+              </div><!-- .row .justify-content-center .mt-5 -->
+            </div><!-- .col-12 .col-md-8-->
+          </div><!-- .tab-pane .fade --> 
 
           <div class="tab-pane fade" id="nav-clima" role="tabpanel" aria-labelledby="nav-clima-tab">
                 <div class="col-12 col-md-8">
