@@ -48,7 +48,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Uranyacu</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -61,7 +60,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pacarenca</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -74,7 +72,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Santa Rosa</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -100,7 +97,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">San Miguel</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -113,7 +109,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Villanueva</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -126,7 +121,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Vista Alegre</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
-                        <small class="text-muted">ANEXO</small>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -139,7 +133,6 @@
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Suyan</h5>
                         <h5 class="text-left text-muted pl-2">Celebracion: <small>27 de Diciembre</small></h5>
-                        <small class="text-muted">ANEXO</small>
                     </div>
           
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
