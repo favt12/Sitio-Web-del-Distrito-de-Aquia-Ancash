@@ -293,6 +293,24 @@ div.data-icon i {
 .map {
   height: 300px; }
 
+.formulario input[type='text'], .formulario input[type='email'] {
+  padding: 6px;
+  border: none;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 15px;
+  border-radius: 2px; }
+.formulario textarea {
+  padding: 15px;
+  border: none;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 10px;
+  height: 100px;
+  min-height: 80px;
+  min-width: 80px;
+  border-radius: 2px; }
+
 div.footer {
   background: #005073; }
 div.sociales a {
