@@ -25,7 +25,7 @@
       <div class="row">
         <div class="col-12">
           <div class="title-h1 text-center mt-0">
-              <h1>CASERIOS</h1>
+              <h3>CASERIOS</h3>
               <div class="anexos row justify-content-center text-uppercase mt-5">
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card">
@@ -34,7 +34,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2 mt-2">Racrachaca</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>26 al 30 de Diciembre</small></h5>
                         <small class="text-muted">CENTRO POBLADO</small>
                       </div>
                     </div>
@@ -47,7 +46,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Uranyacu</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -59,7 +57,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pacarenca</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -71,7 +68,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Santa Rosa</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -83,7 +79,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Pachapaqui</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>04 al 08 de Julio</small></h5>
                         <small class="text-muted">CENTRO POBLADO</small>
                       </div>
                     </div>
@@ -96,7 +91,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">San Miguel</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -108,7 +102,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Villanueva</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -120,7 +113,6 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Vista Alegre</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>02 de Julio</small></h5>
                       </div>
                     </div>
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
@@ -132,9 +124,8 @@
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Suyan</h5>
-                        <h5 class="text-left text-muted pl-2">Celebracion: <small>27 de Diciembre</small></h5>
                     </div>
-          
+
                   </div><!-- .one-anexos .col-6 .col-sm-4 .col-md-3 -->
 
               </div><!-- .anexos -->
