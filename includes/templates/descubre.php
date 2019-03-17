@@ -43,7 +43,7 @@
 			<div class="row portafolio justify-content-center">
             <div class="col-10">
                 <div class="title-h1 text-center">
-                    <h1>GASTRONOMIA</h1>
+                    <h3>GASTRONOMIA</h3>
 				</div><!-- .title-h1 .text-center -->
 					<div class="row galeria justify-content-center">
 						<div class="contenedor-imagen col-12 col-lg-4">
@@ -52,12 +52,12 @@
 						 <h5 class="text-center">caldo de mote</h5 class="text-center">
 						</a>
 						</div><!-- .contenedor-imagen .col-6 .col-lg-4 -->
-						
+
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 							<a href="img/chicha.jpg" data-lightbox="img">
                          		<img src="img/chicha.jpg" class="card-img" alt="">
-								 <h5 class="text-center">CHICHA DE MAIZ</h5 class="text-center">	
+								 <h5 class="text-center">CHICHA DE MAIZ</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
@@ -91,7 +91,7 @@
 
 						<div class="contenedor-imagen col-12 col-lg-8">
 								<a href="img/tocosh.jpg" data-lightbox="img">
-                         		<img src="img/tocosh.jpg" class="card-img" alt="">	
+                         		<img src="img/tocosh.jpg" class="card-img" alt="">
 								 <h5 class="text-center">tocosh</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
@@ -122,7 +122,7 @@
 						<div class="contenedor-imagen col-12 col-lg-8">
 								<a href="img/locro_cuy.jpg" data-lightbox="img">
                          		<img src="img/locro_cuy.jpg" class="card-img" alt="">
-								 <h5 class="text-center">locro de cuy</h5 class="text-center">	
+								 <h5 class="text-center">locro de cuy</h5 class="text-center">
 							</a>
 						</div><!-- .contenedor-imagen .col-12 .col-lg-8 -->
 
