@@ -1,7 +1,7 @@
   <div class="row">
       <div class="card-title-row col-12 text-center">
         <h3>COSTUMBRES</h3>
-      </div>
+      </div><!-- .card-title-row .col-12 .text-center -->
 
       <div class="col-12 col-lg-7 slider">
 
@@ -34,10 +34,16 @@
 
       <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
         <h3>Fiesta en honor  al patron San Miguel Arcangel</h3>
-        <p>Inicia el 27 de septiembre y culmina el 2 de Octubre llevando a cabo la tradicional fiesta costumbrista en honor al santo patrón.</p>
-        <p>Los mayordomos reprensentan al kasike de un territorio determinado encargandose de realizar la misa  y dar alimentos a los visitantes y pobladores durante toda la fiesta y hacerlos bailer y sentirse comodo durante todo el evento.
-</p>
-      </div>
+        <p>Inicia el 27 de Septiembre y culmina el 2 de Octubre llevando a cabo la tradicional fiesta costumbrista en honor al santo patrón.</p>
+        <ul>
+          <li><p><small><strong>DIA 1 - Salva</strong> (27 de Septiembre)</small></p></li>
+          <li><p><small><strong>DIA 2 - Adoracion, Demostracion y Vispera</strong> (28 de Septiembre)</small></p></li>
+          <li><p><small><strong>DIA 3 - Dia Central</strong> (29 de Septiembre)</small></p></li>
+          <li><p><small><strong>DIA 4 - Segundo Dia</strong> (30 de Septiembre)</small></p></li>
+          <li><p><small><strong>DIA 5 - Pinquichida</strong> (01 de Octubre)</small></p></li>
+          <li><p><small><strong>DIA 6 - Entrada y Primera Corrida de Toros</strong> (02 de Octubre)</small></p></li>
+        </ul>
+      </div><!-- .card-title .col-12 .col-lg-5 .text-justify .d-flex .align-items-center .flex-wrap -->
   </div><!-- .row -->
 
   <hr>
@@ -48,7 +54,7 @@
       <p>Inicia la primera semana de Mayo siendo el dia central el 03 de dicho mes.
         Cayac es un santuario a 15 minutos del pueblo de Aquia a orillas del rio, donde se puede apreciar al señor de Cayac que es una imagen de cristo representada en piedra que fue encontrada por un lugareño. En visperas de la fiesta los devotos van al santuario para la misa oficiada por el sacerdote, luego se lleva acabo la procesion y acto seguido los asistentes son invitados por los mayordomos para una cena y luego continuar con la festividad.
       </p>
-    </div>
+    </div><!-- .card-title .col-12 .col-lg-5 .text-justify .d-flex .align-items-center .flex-wrap -->
 
     <div class="col-12 col-lg-7 slider">
 
@@ -190,8 +196,8 @@
     </div><!-- .slider -->
 
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
-      <h3>Las Paccllas</h3>
-      <p>Las Paccllas o esposas del Inca, esta danza es de origen colonial siendo su coreografia de caracter historico donde hace ver la llegada de los españoles y la conquista del imperio.</p>
+      <h3>Las Pallas</h3>
+      <p>Las Pallas o esposas del Inca, esta danza es de origen colonial siendo su coreografia de caracter historico donde hace ver la llegada de los españoles y la conquista del imperio.</p>
     </div>
   </div><!-- .row -->
 
