@@ -86,8 +86,8 @@
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top" alt="">
+                      <a href="img/no_found.jpg" data-lightbox="img">
+                         <img src="img/no_found.jpg" class="card-img-top" alt="">
                       </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">San Miguel</h5>
@@ -108,9 +108,9 @@
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/thumbs/cococha.jpg" class="card-img-top" alt="">
-                      </a>
+                      <a href="img/no_found.jpg" data-lightbox="img">
+                          <img src="img/no_found.jpg" class="card-img-top" alt="">
+                        </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Vista Alegre</h5>
                       </div>
@@ -119,9 +119,9 @@
 
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card mt-5">
-                      <a href="img/cococha.jpg" data-lightbox="img">
-                         <img src="img/cococha.jpg" class="card-img-top" alt="">
-                      </a>
+                      <a href="img/no_found.jpg" data-lightbox="img">
+                          <img src="img/no_found.jpg" class="card-img-top" alt="">
+                        </a>
                       <div class="title-anexos">
                         <h5 class="card-title mt-2">Suyan</h5>
                     </div>
