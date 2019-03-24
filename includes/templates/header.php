@@ -49,7 +49,7 @@
         <img src="img/aquia_foto_sanmiquel.jpg">
         <div class="carousel-caption">
           <h2>SAN MIGUEL ARCANGEL</h2>
-          <h4>27 DE SEPTIEMBRE AL 2 DE OSCTUBRE</h4>
+          <h4>27 DE SEPTIEMBRE AL 2 DE OCTUBRE</h4>
         </div>
       </li>
       <li>
