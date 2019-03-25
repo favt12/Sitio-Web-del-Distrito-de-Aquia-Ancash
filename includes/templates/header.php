@@ -67,8 +67,8 @@
   </div><!-- #slides -->
 </header>
 
-<div class="alert alert-primary alert-dismissible fade show" role="alert">
-  <strong>Importante!</strong> La WEB fue realizada con el fin de promover el turismo y el desarrollo cultural.
+<div class="nota alert alert-primary alert-dismissible fade show" role="alert">
+  <strong>IMPORTANTE!</strong> La WEB fue realizada con el fin de promover el turismo y el desarrollo cultural.
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
