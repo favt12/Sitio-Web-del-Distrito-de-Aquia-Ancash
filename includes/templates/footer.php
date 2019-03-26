@@ -24,7 +24,7 @@
         <div class="w-100"></div>
 
         <div class="col-4 mt-5">
-          <h4>Company | <small>Telvas</small></h4>
+          <h4><small>Company</small> | Telvas</h4>
         </div><!-- .col-4 mt-5-->
 
         <div class="col-4 mt-5">
