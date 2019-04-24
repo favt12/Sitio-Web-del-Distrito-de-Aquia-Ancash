@@ -3,20 +3,20 @@
     <div class="footer row text-center justify-content-center">
       <div class="col-8">
         <h6 class="h1 mt-5">CONTACTO</h6>
-        <form action="" class="formulario mt-5">
+        <form method="POST" action="https://formspree.io/alexis_22_95@hotmail.com" class="formulario mt-5">
             <div class="form-group row">
               <div class="col-12 col-md-6">
-                <input type="text" placeholder="Nombre" name="" id="">
+                <input type="text" placeholder="Nombre y Apellidos" name="name" pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$" required>
             </div><!-- col-12 col-md-6 -->
 
             <div class="col-12 col-md-6">
-                  <input type="email" placeholder="Email" name="" id="">
+                  <input type="email" placeholder="Email@" name="email" pattern="^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$" required>
             </div><!-- col-12 col-md-6 -->
 
             </div><!-- form-group row -->
-            <textarea name="" id="" placeholder="Mensaje..."></textarea>
+            <textarea name="comments" id="" placeholder="Mensaje..." required></textarea>
             <div class="form-group d-flex justify-content-center">
-              <a href="#" class="btn btn-success btn-lg" target="_blank">Enviar</a>
+              <input class="btn btn-success btn-lg"  type="submit" value="Enviar">
             </div><!-- .form-group .d-flex .justify-content-center -->
           </form>
         </div><!-- .col-8 -->
@@ -28,7 +28,7 @@
         </div><!-- .col-4 mt-5-->
 
         <div class="col-4 mt-5">
-          <h6>COPYRIGHT © 2019</h6>
+          <h6>COPYRIGHT © <small class="Footer-year"></small></h6>
           <h6><small>Designed & Developed by Telvas</small></h6>
         </div><!-- .col-4 .mt-5 -->
 
