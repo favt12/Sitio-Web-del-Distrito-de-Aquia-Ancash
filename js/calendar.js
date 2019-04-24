@@ -8,13 +8,19 @@ $(function() {
       {
         title: "CARNAVALES",
         start: "2019-03-02",
-        end: "2019-03-05",
+        end: "2019-03-06",
         textColor: "white"
       },
       {
         title: "SEÑOR DE CAYAC",
-        start: "2019-05-03",
+        start: "2019-05-02",
         end: "2019-05-05",
+        textColor: "white"
+      },
+      {
+        title: "FERIA AQUINA",
+        start: "2019-05-27",
+        end: "2019-05-30",
         textColor: "white"
       },
       {
