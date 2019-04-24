@@ -40,6 +40,7 @@
   <script type="text/javascript" src="https://www.tutiempo.net/s-widget/l_JiJEEE11EI1adehALAwzDzjjD6n1LAE2Ld1tkZyoK1zkk11E1"></script>
   <script src="js/locale/es.js"></script>
   <script src="js/commentsfk.js"></script>
+  <script src="js/footer-year.js"></script>
   <script>
   //-----------------SmoothScroll-------------------
 
