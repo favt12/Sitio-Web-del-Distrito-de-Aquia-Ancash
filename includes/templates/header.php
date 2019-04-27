@@ -42,7 +42,7 @@
         <img src="img/cayac1.jpg">
         <div class="carousel-caption">
           <h2>SANTUARIO DEL SEÑOR DE CAYAC</h2>
-          <h4>3 DE MAYO</h4>
+          <h4>2 al 4 DE MAYO</h4>
         </div>
       </li>
       <li>
