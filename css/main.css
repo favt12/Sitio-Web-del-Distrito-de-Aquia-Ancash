@@ -314,10 +314,16 @@ div.data-icon i {
   min-width: 80px;
   border-radius: 2px; }
 
-div.footer {
+div.form-backg {
   background: #005073; }
 div.sociales a {
-  color: white;
+  color: #333;
   font-size: 30px; }
+
+h4.color-footer {
+  color: #333; }
+
+h6.color-footer {
+  color: #333; }
 
 /*# sourceMappingURL=main.css.map */
