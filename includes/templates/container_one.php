@@ -26,6 +26,7 @@
         <div class="col-12">
           <div class="title-h1 text-center mt-0">
               <h3>CASERIOS</h3>
+              <p class="text-justify mt-5">El distrito de AQUIA fue creado el 2 de enero de 1857 mediante Ley sin número, en el gobierno del Presidente Ramón Castilla, posteriormente en 1881 , alcanzó la categoría de Villa, ahora teniendo en cuenta, el distrito esta formado con alrededor de 7 anexos y 2 centros poblados, teniendo aproximadamente 2,064 habitantes en general.</p>
               <div class="anexos row justify-content-center text-uppercase mt-5">
                   <div class="one-anexos col-6 col-sm-4 col-md-3">
                     <div class="card">
