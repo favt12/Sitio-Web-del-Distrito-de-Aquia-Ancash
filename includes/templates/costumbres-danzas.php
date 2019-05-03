@@ -51,7 +51,7 @@
   <div class="row">
     <div class="card-title col-12 col-lg-5 text-justify d-flex align-items-center flex-wrap">
       <h3>Fiesta en Honor al Señor de Cayac</h3>
-      <p>Inicia la primera semana de Mayo siendo el dia central el 03 de dicho mes.
+      <p>Inicia el segundo dia de Mayo siendo el dia central el 03 de dicho mes.
         Cayac es un santuario a 15 minutos del pueblo de Aquia a orillas del rio, donde se puede apreciar al señor de Cayac que es una imagen de cristo representada en piedra que fue encontrada por un lugareño. En visperas de la fiesta los devotos van al santuario para la misa oficiada por el sacerdote, luego se lleva acabo la procesion y acto seguido los asistentes son invitados por los mayordomos para una cena y luego continuar con la festividad.
       </p>
     </div><!-- .card-title .col-12 .col-lg-5 .text-justify .d-flex .align-items-center .flex-wrap -->
