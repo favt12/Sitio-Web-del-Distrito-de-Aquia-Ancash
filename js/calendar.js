@@ -18,12 +18,6 @@ $(function() {
         textColor: "white"
       },
       {
-        title: "FERIA AQUINA",
-        start: "2019-05-27",
-        end: "2019-05-30",
-        textColor: "white"
-      },
-      {
         title: "FIESTA COSTUMBRISTA HONOR A SAN MIGUEL ARCANGEL",
         start: "2019-09-27",
         end: "2019-10-03",
