@@ -6,7 +6,6 @@
     <ul>
       <li><p><small><strong>02 al 05 de Marzo</strong> Carnavales </small></p></li>
       <li><p><small><strong>02 al 04 de Mayo</strong> Celebracion en Honor al Señor de Cayac </small></p></li>
-      <li><p><small><strong>27 al 29 de Mayo</strong> GRAN FERIA AQUINA </small></p></li>
       <li><p><small><strong>27 de Septiembre al 02 de Octubre</strong> Fiesta costumbrista a San Miguel Arcangel</small></p></li>
       <li><p><small><strong>30 de Diciembre al 02 de Enero</strong> Fiesta honor al niño Jesùs en Año Nuevo</small></p></li>
     </ul>
